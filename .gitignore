@@ -1,0 +1,6 @@
+
+# hugo generated dirs
+public/
+resources/
+.hugo_build.lock
+
