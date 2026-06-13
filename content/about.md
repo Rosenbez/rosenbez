@@ -1,6 +1,6 @@
 +++
 date = '2026-06-12T22:37:39-04:00'
-draft = true
+draft = false
 title = 'About'
 +++
 
