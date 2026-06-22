@@ -1,4 +1,8 @@
-## Hi there 👋
+## About
+
+Zach Rosenberg - Software Engineer and Manager.
+
+More info on my site: [www.rosenbez.com](https://www.rosenbez.com)
 
 <!--
 **Rosenbez/rosenbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
