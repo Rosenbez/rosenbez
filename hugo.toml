@@ -9,8 +9,8 @@ defaultcontentlanguage = "en"
 pagerSize = 20
 
 [services]
-[services.disqus]
-shortname = "yourdiscussshortname"
+#[services.disqus]
+#shortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
@@ -37,6 +37,12 @@ style = "github-dark"
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
+
+[params.umami]
+    siteID = "ba5a8aa1-6d19-4af7-8e74-3d96f86a0f7a"
+    scriptURL = "https://cloud.umami.is/script.js"
+    # refer to the "tracking code" tab in your umami website dashboard 
+    # to obtain the script url
 
 [taxonomies]
   category = "categories"
